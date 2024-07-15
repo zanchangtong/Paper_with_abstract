@@ -2,7 +2,7 @@ name: Fetch arXiv Papers
 
 on:
   schedule:
-    - cron: '30 12 * * *'  # 每天 UTC 时间 1:00 AM 执行
+    - cron: '45 12 * * *'  # 每天 UTC 时间 1:00 AM 执行
 
 jobs:
   fetch-papers:
