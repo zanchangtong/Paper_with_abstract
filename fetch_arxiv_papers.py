@@ -63,25 +63,13 @@ if updated:
         # 添加论文条目
         for entry in entries:
             item = ET.SubElement(channel, "item")
-
-            item_title = ET.SubElement(item, "title")
-            item_title.text = entry["title"]
-
-            item_author = ET.SubElement(item, "author")
-            item_author.text = entry["author"]
-
-            item_description = ET.SubElement(item, "abstract")
-            item_description.text = entry["abstract"]
-
-            item_link = ET.SubElement(item, "link")
-            item_link.text = entry["link"]
-
-            item_comments = ET.SubElement(item, "comments")
-            item_comments.text = entry["comment"]
-
-            item_pubDate = ET.SubElement(item, "pubDate")
-            item_pubDate.text = entry["update_time"].strftime("%a, %d %b %Y GMT")
-
+            ET.SubElement(item, "title").text = entry["title"]
+            ET.SubElement(item, "author").text = entry["author"]
+            ET.SubElement(item, "description").text = entry["abstract"]
+            ET.SubElement(item, "link").text = entry["link"]
+            ET.SubElement(item, "comments").text = entry["comment"]
+            ET.SubElement(item, "pubDate").text = entry["update_time"].strftime("%a, %d %b %Y %H:%M:%S GMT")
+            ET.SubElement(item, "guid").text = entry["link"]
         # 生成 XML 树并保存到文件
         tree = ET.ElementTree(rss)
         tree.write("arxiv_vs_CL_papers.xml", encoding="utf-8", xml_declaration=True)
