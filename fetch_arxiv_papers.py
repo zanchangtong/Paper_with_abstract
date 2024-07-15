@@ -72,7 +72,7 @@ if updated:
             ET.SubElement(item, "guid").text = entry["link"]
         # 生成 XML 树并保存到文件
         tree = ET.ElementTree(rss)
-        tree.write("arxiv_vs_CL_papers.xml", encoding="utf-8", xml_declaration=True)
+        tree.write("arxiv_cs_CL_papers.xml", encoding="utf-8", xml_declaration=True)
 
     # 示例数据
     entries = [
