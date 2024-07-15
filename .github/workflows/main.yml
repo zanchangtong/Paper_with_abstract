@@ -1,0 +1,32 @@
+name: Fetch arXiv Papers
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 每天 UTC 时间 1:00 AM 执行
+
+jobs:
+  fetch-papers:
+    runs-on: ubuntu-latest  # 指定使用最新版本的 Ubuntu 运行环境
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # 使用 GitHub Actions 的 checkout 步骤获取仓库代码
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'  # 设置 Python 版本
+
+      - name: Install dependencies
+        run: |
+          pip install arxiv  # 安装脚本所需的依赖
+
+      - name: Run fetch_arxiv_papers.py
+        run: |
+          python fetch_arxiv_papers.py  # 执行 Python 脚本
+
+      - name: Upload results
+        uses: actions/upload-artifact@v3
+        with:
+          name: fetched-papers
+          path: arxiv_papers.xml  # 上传生成的 XML 文件作为工作流程的工件
