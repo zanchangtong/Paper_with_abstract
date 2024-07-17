@@ -1,0 +1,929 @@
+Challenges and applications of large language models
+A comprehensive overview of large language models
+A survey of large language models
+Qwen technical report
+Mixtral of experts
+Open problems and fundamental limitations of reinforcement learning from human feedback
+Zephyr: Direct distillation of lm alignment
+Self-rewarding language models
+Aligning large language models with human: A survey
+Preference ranking optimization for human alignment
+Reinforced self-training (rest) for language modeling
+Rlhf-v: Towards trustworthy mllms via behavior alignment from fine-grained correctional human feedback
+Safe rlhf: Safe reinforcement learning from human feedback
+Octopack: Instruction tuning code large language models
+Large language models are effective text rankers with pairwise ranking prompting
+Self-play fine-tuning converts weak language models to strong language models
+Trustworthy LLMs: A survey and guideline for evaluating large language models' alignment
+Yi: Open foundation models by 01. ai
+Detecting and preventing hallucinations in large vision language models
+Large language models: A survey
+Statistical rejection sampling improves preference optimization
+Openchat: Advancing open-source language models with mixed-quality data
+Bridging the gap: A survey on integrating (human) feedback for natural language generation
+Ai alignment: A comprehensive survey
+Evaluating large language models at evaluating instruction following
+Rain: Your language models can align themselves without finetuning
+Camels in a changing climate: Enhancing lm adaptation with tulu 2
+Nash learning from human feedback
+Investigating the catastrophic forgetting in multimodal large language models
+Drive as you speak: Enabling human-like interaction with large language models in autonomous vehicles
+A survey of large language models for healthcare: from data, technology, and applications to accountability and ethics
+Large language model alignment: A survey
+Inverse preference learning: Preference-based rl without a reward function
+Reward model ensembles help mitigate overoptimization
+Harmbench: A standardized evaluation framework for automated red teaming and robust refusal
+Retroformer: Retrospective large language agents with policy gradient optimization
+Rlcd: Reinforcement learning from contrast distillation for language model alignment
+A survey on hallucination in large vision-language models
+Rethinking machine unlearning for large language models
+Contrastive prefence learning: Learning from human feedback without rl
+Llamafactory: Unified efficient fine-tuning of 100+ language models
+Iterative preference learning from human feedback: Bridging theory and practice for rlhf under kl-constraint
+What makes good data for alignment? a comprehensive study of automatic data selection in instruction tuning
+Continual learning for large language models: A survey
+Foundational challenges in assuring alignment and safety of large language models
+Using human feedback to fine-tune diffusion models without any reward model
+A survey on interpretable reinforcement learning
+Solar 10.7 b: Scaling large language models with simple yet effective depth up-scaling
+A minimaximalist approach to reinforcement learning from human feedback
+Contrastive preference optimization: Pushing the boundaries of llm performance in machine translation
+Direct nash optimization: Teaching language models to self-improve with general preferences
+A survey of reinforcement learning from human feedback
+A long way to go: Investigating length correlations in rlhf
+Some things are more cringe than others: Preference optimization with the pairwise cringe loss
+Chatgpt's one-year anniversary: are open-source large language models catching up?
+Minicpm: Unveiling the potential of small language models with scalable training strategies
+Direct language model alignment from online ai feedback
+Simpo: Simple preference optimization with a reference-free reward
+How to Protect Copyright Data in Optimization of Large Language Models?
+Making large language models better reasoners with alignment
+Assessing the brittleness of safety alignment via pruning and low-rank modifications
+Beyond text: Frozen large language models in visual signal comprehension
+The breakthrough of large language models release for medical applications: 1-year timeline and perspectives
+Receive, reason, and react: Drive as you say, with large language models in autonomous vehicles
+Large language models for data annotation: A survey
+Peering through preferences: Unraveling feedback acquisition for aligning large language models
+Fast high-resolution image synthesis with latent adversarial diffusion distillation
+Defending large language models against jailbreaking attacks through goal prioritization
+Alphazero-like tree-search can guide large language model decoding and training
+From Instructions to Intrinsic Human Values--A Survey of Alignment Goals for Big Models
+SeaLLMs--Large Language Models for Southeast Asia
+Gibbs sampling from human feedback: A provable kl-constrained framework for rlhf
+Aya model: An instruction finetuned open-access multilingual language model
+Motif: Intrinsic motivation from artificial intelligence feedback
+Raft: Adapting language model to domain specific rag
+Group preference optimization: Few-shot alignment of large language models
+Fine-tuning language models with advantage-induced policy alignment
+Robust prompt optimization for defending language models against jailbreaking attacks
+Beyond reverse kl: Generalizing direct preference optimization with diverse divergence constraints
+Learning and forgetting unsafe examples in large language models
+Generalized preference optimization: A unified approach to offline alignment
+LLM multimodal traffic accident forecasting
+Jailbreakbench: An open robustness benchmark for jailbreaking large language models
+Pairwise proximal policy optimization: Harnessing relative feedback for llm alignment
+Silkie: Preference distillation for large visual language models
+A survey on data selection for language models
+Controlled decoding from language models
+Gaining wisdom from setbacks: Aligning large language models via mistake analysis
+Smaug: Fixing failure modes of preference optimisation with dpo-positive
+Risk taxonomy, mitigation, and assessment benchmarks of large language model systems
+Aligner: Achieving efficient alignment through weak-to-strong correction
+Aligning modalities in vision large language models via preference fine-tuning
+Reinforcement learning for generative ai: State of the art, opportunities and open research challenges
+Alignbench: Benchmarking chinese alignment of large language models
+Black-box prompt optimization: Aligning large language models without model training
+Multi-modal hallucination control by visual information grounding
+Wildchat: 1m chatGPT interaction logs in the wild
+Lora fine-tuning efficiently undoes safety training in llama 2-chat 70b
+Embodied multi-modal agent trained by an llm from a parallel textworld
+Advancing llm reasoning generalists with preference trees
+Negative preference optimization: From catastrophic collapse to effective unlearning
+Dpo meets ppo: Reinforced token optimization for rlhf
+Arcee's MergeKit: A Toolkit for Merging Large Language Models
+Dataset reset policy optimization for rlhf
+Attacks, defenses and evaluations for llm conversation safety: A survey
+Automl in the age of large language models: Current challenges, future opportunities and risks
+Stay on topic with classifier-free guidance
+Data augmentation using llms: Data perspectives, learning paradigms and challenges
+Self-play preference optimization for language model alignment
+Helping or herding? reward model ensembles mitigate but do not eliminate reward hacking
+Is dpo superior to ppo for llm alignment? a comprehensive study
+Language models scale reliably with over-training and on downstream tasks
+Prdp: Proximal reward difference prediction for large-scale reward finetuning of diffusion models
+Learning to generate better than your llm
+Beyond imitation: Leveraging fine-grained quality signals for alignment
+Knowledgeable preference alignment for llms in domain-specific question answering
+Cambrian-1: A fully open, vision-centric exploration of multimodal llms
+A theoretical analysis of nash learning from human feedback under general kl-regularized preference
+Adversarial preference optimization
+Preference fine-tuning of llms should leverage suboptimal, on-policy data
+Qilin-med: Multi-stage knowledge injection advanced medical large language model
+Rlhf workflow: From reward modeling to online rlhf
+Iterative reasoning preference optimization
+Emptying the Ocean with a Spoon: Should We Edit Models?
+Grounding or guesswork? large language models are presumptive grounders
+Star-gate: Teaching language models to ask clarifying questions
+Training socially aligned language models on simulated social interactions
+Superiority of softmax: Unveiling the performance edge over linear attention
+Defending large language models against jailbreak attacks via semantic smoothing
+Urban generative intelligence (ugi): A foundational platform for agents in embodied city environment
+Teaching large language models to reason with reinforcement learning
+Arithmetic control of llms for diverse user preferences: Directional preference alignment with multi-objective rewards
+Red teaming visual language models
+Typhoon: Thai large language models
+Flm-101b: An open llm and how to train it with $100 k budget
+Alphazero-like tree-search can guide large language model decoding and training
+Sok: Memorization in general-purpose large language models
+Anytool: Self-reflective, hierarchical agents for large-scale api calls
+Exploring the reasoning abilities of multimodal large language models (mllms): A comprehensive survey on emerging trends in multimodal reasoning
+Instruction position matters in sequence generation with large language models
+Personalized language modeling from personalized human feedback
+Rlaif-v: Aligning mllms through open-source ai feedback for super gpt-4v trustworthiness
+Dense reward for free in reinforcement learning from human feedback
+On the Safety of Open-Sourced Large Language Models: Does Alignment Really Prevent Them From Being Misused?
+Value fulcra: Mapping large language models to the multidimensional spectrum of basic human values
+Aligning large language models with human preferences through representation engineering
+When to show a suggestion? Integrating human feedback in AI-assisted programming
+Direct preference-based policy optimization without reward modeling
+Long is more for alignment: A simple but tough-to-beat baseline for instruction fine-tuning
+Calibrated self-rewarding vision language models
+A survey on automatic generation of figurative language: From rule-based systems to large language models
+Iterative data smoothing: Mitigating reward overfitting and overoptimization in rlhf
+West-of-n: Synthetic preference generation for improved reward modeling
+Systematic biases in LLM simulations of debates
+Creativity and machine learning: A survey
+Tim: Teaching large language models to translate with comparison
+Enable language models to implicitly learn self-improvement from data
+Can AI Assistants Know What They Don't Know?
+Turkishbertweet: Fast and reliable large language model for social media analysis
+Sequential monte carlo steering of large language models using probabilistic programs
+Continual learning of large language models: A comprehensive survey
+Bootstrapping llm-based task-oriented dialogue agents via self-talk
+Musicrl: Aligning music generation to human preferences
+Weak-to-strong extrapolation expedites alignment
+Large language model based long-tail query rewriting in taobao search
+Cogenesis: A framework collaborating large and small language models for secure context-aware instruction following
+Qurating: Selecting high-quality data for training language models
+Reasons to reject? aligning language models with judgments
+The PRISM Alignment Project: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of …
+Sequence modeling and design from molecular to genome scale with Evo
+Token-level Direct Preference Optimization
+From matching to generation: A survey on generative information retrieval
+Mt-bench-101: A fine-grained benchmark for evaluating large language models in multi-turn dialogues
+Personalised distillation: Empowering open-sourced llms with adaptive learning for code generation
+Aya 23: Open weight releases to further multilingual progress
+Rewards-in-context: Multi-objective alignment of foundation models with dynamic preference adjustment
+Language model unalignment: Parametric red-teaming to expose hidden harms and biases
+Weblinx: Real-world website navigation with multi-turn dialogue
+Refining decompiled c code with large language models
+Contrastive post-training large language models on data curriculum
+Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?
+Making ppo even better: Value-guided monte-carlo tree search decoding
+Principled rlhf from heterogeneous feedback via personalization and preference aggregation
+Chinese tiny llm: Pretraining a chinese-centric large language model
+Vaccine: Perturbation-aware alignment for large language model
+Stabilizing RLHF through advantage model and selective rehearsal
+SALMON: Self-Alignment with Instructable Reward Models
+ARGS: Alignment as reward-guided search
+Reinforcement learning in the era of llms: What is essential? what is needed? an rl perspective on rlhf, prompting, and beyond
+Tofu: A task of fictitious unlearning for llms
+Improving large language models via fine-grained reinforcement learning with minimum editing constraint
+Learning to trust your feelings: Leveraging self-awareness in llms for hallucination mitigation
+Theoretical guarantees on the best-of-n alignment policy
+Align on the fly: Adapting chatbot behavior to established norms
+Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement
+Relative preference optimization: Enhancing llm alignment through contrasting responses across identical and diverse prompts
+Cityllava: Efficient fine-tuning for vlms in city scenario
+Understanding and Mitigating Language Confusion in LLMs
+Large language models for social networks: Applications, challenges, and solutions
+ARM: Alignment with Residual Energy-Based Model
+Hummer: Towards limited competitive preference dataset
+Pissa: Principal singular values and singular vectors adaptation of large language models
+ChaTA: Towards an Intelligent Question-Answer Teaching Assistant using Open-Source LLMs
+Improving machine translation with human feedback: An exploration of quality estimation as a reward model
+Distillm: Towards streamlined distillation for large language models
+Distilling large language models for matching patients to clinical trials
+Bimedix: Bilingual medical mixture of experts llm
+Reft: Reasoning with reinforced fine-tuning
+Teaching large language models to translate with comparison
+Factuality of large language models in the year 2024
+Unmasking transformers: A theoretical approach to data recovery via attention weights
+Remax: A simple, effective, and efficient reinforcement learning method for aligning large language models
+Vanishing gradients in reinforcement finetuning of language models
+Copf: Continual learning human preference through optimal policy fitting
+Soul: Unlocking the power of second-order optimization for llm unlearning
+Robust preference optimization through reward model distillation
+Policy optimization in rlhf: The impact of out-of-preference data
+Efficient adversarial training in llms with continuous attacks
+Convergence of two-layer regression with nonlinear units
+Orca-math: Unlocking the potential of slms in grade school math
+Self-alignment of large language models via monopolylogue-based social scene simulation
+Trial and error: Exploration-based trajectory optimization for llm agents
+Scaling laws for reward model overoptimization in direct alignment algorithms
+Culturebank: An online community-driven knowledge base towards culturally aware language technologies
+Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF
+Looping in the human: Collaborative and explainable Bayesian optimization
+Constructive large language models alignment with diverse feedback
+Eyes closed, safety on: Protecting multimodal llms via image-to-text transformation
+Do we really need a complex agent system? distill embodied agent into a single model
+RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs
+Reinforcement learning from human feedback with active queries
+Feedback efficient online fine-tuning of diffusion models
+Provably mitigating overoptimization in rlhf: Your sft loss is implicitly an adversarial regularizer
+Overcoming reward overoptimization via adversarial policy optimization with lightweight uncertainty estimation
+Tastle: Distract large language models for automatic jailbreak attack
+Selecting large language model to fine-tune via rectified scaling law
+Human vs. machine: Language models and wargames
+The empty signifier problem: Towards clearer paradigms for operationalising" alignment" in large language models
+Self-supervised alignment with mutual information: Learning to follow principles without preference labels
+Learning interpretable concepts: Unifying causal representation learning and foundation models
+Self-playing Adversarial Language Game Enhances LLM Reasoning
+Towards tracing trustworthiness dynamics: Revisiting pre-training period of large language models
+Parameter-efficient tuning helps language model alignment
+The alignment ceiling: Objective mismatch in reinforcement learning from human feedback
+Canvil: Designerly Adaptation for LLM-Powered User Experiences
+Countering reward over-optimization in llm with demonstration-guided reinforcement learning
+Entangled preferences: The history and risks of reinforcement learning and human feedback
+Aligning to thousands of preferences via system message generalization
+OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework
+Curry-dpo: Enhancing alignment using curriculum learning & ranked preferences
+Icdpo: Effectively borrowing alignment capability of others via in-context direct preference optimization
+Detecting and mitigating hallucination in large vision language models via fine-grained ai feedback
+Leveraging implicit feedback from deployment data in dialogue
+Protecting your llms with information bottleneck
+Panacea: Pareto Alignment via Preference Adaptation for LLMs
+Tigerbot: An open multilingual multitask llm
+Empowering biomedical discovery with ai agents
+Ask Optimal Questions: Aligning Large Language Models with Retriever's Preference in Conversational Search
+Direct preference optimization for neural machine translation with minimum bayes risk decoding
+Improving generalization of alignment with human preferences through group invariant learning
+Principled penalty-based methods for bilevel reinforcement learning and rlhf
+GenAudit: Fixing Factual Errors in Language Model Outputs with Evidence
+Towards analyzing and understanding the limitations of dpo: A theoretical perspective
+Rlvf: Learning from verbal feedback without overgeneralization
+Safety of Multimodal Large Language Models on Images and Text
+CAT: enhancing multimodal large language model to answer questions in dynamic audio-visual scenarios
+Learn your reference model for real good alignment
+Online DPO: Online Direct Preference Optimization with Fast-Slow Chasing
+Knowledge-to-sql: Enhancing sql generation with data expert llm
+On diverse preferences for large language model alignment
+From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models
+Mapping social choice theory to RLHF
+EMO: Earth Mover Distance Optimization for Auto-Regressive Language Modeling
+Online merging optimizers for boosting rewards and mitigating tax in alignment
+Enhancing Large Vision Language Models with Self-Training on Image Comprehension
+Orion-14b: Open-source multilingual large language models
+Improving factual consistency of text summarization by adversarially decoupling comprehension and embellishment abilities of llms
+Direct large language model alignment through self-rewarding contrastive prompt distillation
+CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences
+Provably robust dpo: Aligning language models with noisy feedback
+OLAPH: Improving Factuality in Biomedical Long-form Question Answering
+Gradient-based language model red teaming
+sDPO: Don't Use Your Data All at Once
+Impact of preference noise on the alignment performance of generative language models
+H2o-danube-1.8 b technical report
+Aligning diffusion models by optimizing human utility
+HFT: Half Fine-Tuning for Large Language Models
+Explaining Bayesian Optimization by Shapley Values Facilitates Human-AI Collaboration
+Rs-dpo: A hybrid rejection sampling and direct preference optimization method for alignment of large language models
+Tango 2: Aligning diffusion-based text-to-audio generations through direct preference optimization
+LLMs Meet Multimodal Generation and Editing: A Survey
+PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications
+Pedagogical alignment of large language models
+Self-Exploring Language Models: Active Preference Elicitation for Online Alignment
+Transforming and Combining Rewards for Aligning Large Language Models
+Your Large Language Model is Secretly a Fairness Proponent and You Should Prompt it Like One
+Alpaca against Vicuna: Using LLMs to Uncover Memorization of LLMs
+A comprehensive survey of large language models and multimodal large language models in medicine
+Language Models Trained to do Arithmetic Predict Human Risky and Intertemporal Choice
+AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning
+Collective Constitutional AI: Aligning a Language Model with Public Input
+HYDRA: Model Factorization Framework for Black-Box LLM Personalization
+Teller: A trustworthy framework for explainable, generalizable and controllable fake news detection
+Filtered direct preference optimization
+A Survey on Large Language Models for Code Generation
+Mitigating Object Hallucination via Data Augmented Contrastive Tuning
+ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search
+BabyStories: Can Reinforcement Learning Teach Baby Language Models to Write Better Stories?
+Prompt Optimization with Human Feedback
+Negating negatives: Alignment without human positive samples via distributional dispreference optimization
+Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF
+T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback
+Comparing Bad Apples to Good Oranges: Aligning Large Language Models via Joint Preference Optimization
+Inverse-RLignment: Inverse Reinforcement Learning from Demonstrations for LLM Alignment
+OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models
+Binary classifier optimization for large language model alignment
+Immunization against harmful fine-tuning attacks
+Personalized large language models
+Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees
+RaFe: Ranking Feedback Improves Query Rewriting for RAG
+An empirical study on large language models in accuracy and robustness under chinese industrial scenarios
+Loose LIPS Sink Ships: Asking Questions in Battleship with Language-Informed Program Sampling
+Improving socratic question generation using data augmentation and preference optimization
+PlanGPT: Enhancing urban planning with tailored language model and efficient retrieval
+Recovering the Pre-Fine-Tuning Weights of Generative Models
+ConPro: Learning Severity Representation for Medical Images using Contrastive Learning and Preference Optimization
+A Closer Look at the Limitations of Instruction Tuning
+Intuitive Fine-Tuning: Towards Unifying SFT and RLHF into a Single Process
+Diffusion Language Models Are Versatile Protein Learners
+Exploring Text-to-Motion Generation with Human Preference
+Detoxifying Large Language Models via Knowledge Editing
+Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models
+Dissecting Human and LLM Preferences
+SymbolicAI: A framework for logic-based approaches combining generative models and solvers
+Batch Active Learning of Reward Functions from Human Preferences
+Decoding-time Realignment of Language Models
+Participation in the age of foundation models
+It HAS to be Subjective: Human Annotator Simulation via Zero-shot Density Estimation
+Efficient and effective vocabulary expansion towards multilingual large language models
+The life cycle of large language models in education: A framework for understanding sources of bias
+Towards Safety and Helpfulness Balanced Responses via Controllable Large Language Models
+Authorship Style Transfer with Policy Optimization
+Aligning Large Language Models by On-Policy Self-Judgment
+Human alignment of large language models through online preference optimisation
+Improving the robustness of large language models via consistency alignment
+Improving in-context learning via bidirectional alignment
+Mixed preference optimization: Reinforcement learning with data selection and better reference model
+Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation
+Prefix Text as a Yarn: Eliciting Non-English Alignment in Foundation Language Model
+Compress to impress: Unleashing the potential of compressive memory in real-world long-term conversations
+LightHouse: A Survey of AGI Hallucination
+MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization
+Participatory Objective Design via Preference Elicitation
+Strengthened Symbol Binding Makes Large Language Models Reliable Multiple-Choice Selectors
+Xwin-LM: Strong and Scalable Alignment Practice for LLMs
+Stepwise Alignment for Constrained Language Model Policy Optimization
+Reward Model Learning vs. Direct Policy Optimization: A Comparative Analysis of Learning from Human Preferences
+DialogGen: Multi-modal Interactive Dialogue System for Multi-turn Text-to-Image Generation
+Aligning crowd feedback via distributional preference reward modeling
+Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization
+Benchmarking llm-based machine translation on cultural awareness
+MetaRM: Shifted Distributions Alignment via Meta-Learning
+Investigating Regularization of Self-Play Language Models
+Agent Alignment in Evolving Social Norms
+Oil & water? diffusion of ai within and across scientific fields
+Rethinking LLM Language Adaptation: A Case Study on Chinese Mixtral
+BRAIn: Bayesian Reward-conditioned Amortized Inference for natural language generation from feedback
+Feb4rag: Evaluating federated search in the context of retrieval augmented generation
+Understanding and Controlling a Maze-Solving Policy Network
+Genetic-guided GFlowNets: Advancing in Practical Molecular Optimization Benchmark
+On what basis? predicting text preference via structured comparative reasoning
+Fine-tuning language models using formal methods feedback
+Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings
+Attention is Naturally Sparse with Gaussian Distributed Input
+A density estimation perspective on learning from pairwise human preferences
+Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning
+Online personalizing white-box llms generation with neural bandits
+Autonomous data selection with language models for mathematical texts
+Coactive Learning for Large Language Models using Implicit User Feedback
+NCL_NLP at SemEval-2024 Task 7: CoT-NumHG: A CoT-Based SFT Training Strategy with Large Language Models for Number-Focused Headline Generation
+GraphWiz: An Instruction-Following Language Model for Graph Problems
+Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models
+An Information Bottleneck Characterization of the Understanding-Workload Tradeoff in Human-Centered Explainable AI
+Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration
+Beyond Helpfulness and Harmlessness: Eliciting Diverse Behaviors from Large Language Models with Persona In-Context Learning
+Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training
+Risks from Language Models for Automated Mental Healthcare: Ethics and Structure for Implementation
+AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback
+Transformers in source code generation: A comprehensive survey
+Let AI Entertain You: Increasing User Engagement with Generative AI and Rejection Sampling
+A safety realignment framework via subspace-oriented model fusion for large language models
+Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data
+Exploring autonomous agents through the lens of large language models: A review
+Break the Breakout: Reinventing LM Defense Against Jailbreak Attacks with Self-Refinement
+Conditions on Preference Relations that Guarantee the Existence of Optimal Policies
+NOTE: Notable generation Of patient Text summaries through Efficient approach based on direct preference optimization
+Hyacinth6B: A large language model for Traditional Chinese
+Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms
+Linear Alignment: A Closed-form Solution for Aligning Human Preferences without Tuning and Feedback
+Into the Unknown: Self-Learning Large Language Models
+Fine-tuning of diffusion models via stochastic control: entropy regularization and beyond
+uTeBC-NLP at SemEval-2024 Task 9: Can LLMs be Lateral Thinkers?
+Scaling Data Diversity for Fine-Tuning Language Models in Human Alignment
+Conifer: Improving Complex Constrained Instruction-Following Ability of Large Language Models
+Towards Better Question Generation in QA-Based Event Extraction
+ReZero: Boosting MCTS-based Algorithms by Just-in-Time and Speedy Reanalyze
+Reinforcement Learning with Dynamic Multi-Reward Weighting for Multi-Style Controllable Generation
+Transformer-based Causal Language Models Perform Clustering
+Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding
+Zero-shot learning to extract assessment criteria and medical services from the preventive healthcare guidelines using large language models
+ReNO: Enhancing One-step Text-to-Image Models through Reward-based Noise Optimization
+Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge
+Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs
+Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine
+Incentive Compatibility for AI Alignment in Sociotechnical Systems: Positions and Prospects
+On Softmax Direct Preference Optimization for Recommendation
+Direct Preference Knowledge Distillation for Large Language Models
+InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output
+LLMBox: A Comprehensive Library for Large Language Models
+Show, Don't Tell: Aligning Language Models with Demonstrated Feedback
+GRATH: Gradual Self-Truthifying for Large Language Models
+Normad: A benchmark for measuring the cultural adaptability of large language models
+Deep Bayesian Active Learning for Preference Modeling in Large Language Models
+Risks and Opportunities of Open-Source Generative AI
+Evaluating Copyright Takedown Methods for Language Models
+Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models
+COPR: Continual Human Preference Learning via Optimal Policy Regularization
+Preference Optimization for Molecule Synthesis with Conditional Residual Energy-based Models
+KwaiYiiMath: Technical Report
+OR-Bench: An Over-Refusal Benchmark for Large Language Models
+Self-alignment of large language models via multi-agent social simulation
+Preferred-Action-Optimized Diffusion Policies for Offline Reinforcement Learning
+CopyBench: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation
+Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step
+SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
+Value aligned large language models
+A reliable knowledge processing framework for combustion science using foundation models
+PORT: Preference Optimization on Reasoning Traces
+OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework
+VideoPhy: Evaluating Physical Commonsense for Video Generation
+Low-Redundant Optimization for Large Language Model Alignment
+PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs
+Transcribe3d: Grounding llms using transcribed information for 3d referential reasoning with self-corrected finetuning
+RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models
+Fast Adversarial Attacks on Language Models In One GPU Minute
+MIA-Bench: Towards Better Instruction Following Evaluation of Multimodal LLMs
+Rethinking Entity-level Unlearning for Large Language Models
+PopAlign: Population-Level Alignment for Fair Text-to-Image Generation
+Timo: Towards Better Temporal Reasoning for Language Models
+ChatGLM-RLHF: Practices of Aligning Large Language Models with Human Feedback
+Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs
+Are Large Language Models Consistent over Value-laden Questions?
+High-Dimension Human Value Representation in Large Language Models
+Reinforcement Learning for Sequence Design Leveraging Protein Language Models
+Jailbreak Attacks and Defenses Against Large Language Models: A Survey
+Multi-turn Reinforcement Learning from Preference Human Feedback
+DRUGIMPROVER: Utilizing reinforcement learning for multi-objective alignment in drug optimization
+OLLIE: Imitation Learning from Offline Pretraining to Online Finetuning
+mDPO: Conditional Preference Optimization for Multimodal Large Language Models
+LLMs for Explainable Few-shot Deception Detection
+Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches
+From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models
+Self-training Large Language Models through Knowledge Detection
+Decoding-Time Language Model Alignment with Multiple Objectives
+Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning
+LLMs Could Autonomously Learn Without External Supervision
+Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback
+Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis
+The Real, the Better: Aligning Large Language Models with Online Human Behaviors
+Curriculum Direct Preference Optimization for Diffusion and Consistency Models
+KnowTuning: Knowledge-aware Fine-tuning for Large Language Models
+A SMART Mnemonic Sounds like" Glue Tonic": Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick
+Q-Probe: A Lightweight Approach to Reward Maximization for Language Models
+Generative AI and Large Language Models for Cyber Security: All Insights You Need
+NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models
+Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning
+LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models
+Leftover Lunch: Advantage-based Offline Reinforcement Learning for Language Models
+Suri: Multi-constraint Instruction Following for Long-form Text Generation
+Preference Learning Algorithms Do Not Learn Preference Rankings
+Aligning Large Language Models with Diverse Political Viewpoints
+A Survey on Human Preference Learning for Large Language Models
+Stress-Testing Capability Elicitation With Password-Locked Models
+Towards Understanding the Influence of Reward Margin on Preference Model Performance
+APEER: Automatic Prompt Engineering Enhances Large Language Model Reranking
+Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts
+Reflection-Reinforced Self-Training for Language Agents
+Aligning Agents like Large Language Models
+Feedback-aligned Mixed LLMs for Machine Language-Molecule Translation
+BAPO: Base-Anchored Preference Optimization for Personalized Alignment in Large Language Models
+The Hallucinations Leaderboard--An Open Effort to Measure Hallucinations in Large Language Models
+Optimizing Language Model's Reasoning Abilities with Weak Supervision
+Survey for Landing Generative AI in Social and E-commerce Recsys--the Industry Perspectives
+Nemotron-4 340B Technical Report
+Model Editing by Pure Fine-Tuning
+Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL
+Large Language Models as Agents in Two-Player Games
+Do Language Models Exhibit Human-like Structural Priming Effects?
+ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator
+UICoder: Finetuning Large Language Models to Generate User Interface Code through Automated Feedback
+FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models
+-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning
+LoFiT: Localized Fine-tuning on LLM Representations
+Joint Demonstration and Preference Learning Improves Policy Alignment with Human Feedback
+Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation
+A Fundamental Trade-off in Aligned Language Models and its Relation to Sampling Adaptors
+Preference Tuning For Toxicity Mitigation Generalizes Across Languages
+PKU-SafeRLHF: A Safety Alignment Preference Dataset for Llama Family Models
+Large Language Models Assume People are More Rational than We Really are
+Efficacy of Language Model Self-Play in Non-Zero-Sum Games
+Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective
+The Evolution of Multimodal Model Architectures
+Position: Foundation Agents as the Paradigm Shift for Decision Making
+Aligning Large Language Models with Representation Editing: A Control Perspective
+Finding Safety Neurons in Large Language Models
+Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization
+More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness
+AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent
+From Distributional to Overton Pluralism: Investigating Large Language Model Alignment
+Style Transfer with Multi-iteration Preference Optimization
+Exploring the landscape of large language models: Foundations, techniques, and challenges
+Discovering Preference Optimization Algorithms with and for Large Language Models
+SORRY-Bench: Systematically Evaluating Large Language Model Safety Refusal Behaviors
+Hindsight Preference Learning for Offline Preference-based Reinforcement Learning
+Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models
+ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization
+RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold
+Robust Reinforcement Learning from Corrupted Human Feedback
+A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations
+ChatGPT: perspectives from human–computer interaction and psychology
+Preference as Reward, Maximum Preference Optimization with Importance Sampling
+Adaptive Preference Scaling for Reinforcement Learning with Human Feedback
+AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence
+" In Dialogues We Learn": Towards Personalized Dialogue Without Pre-defined Profiles through In-Dialogue Learning
+Calibration-Tuning: Teaching Large Language Models to Know What They Don't Know
+Training of Physical Neural Networks
+AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts
+Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward
+Dishonesty in Helpful and Harmless Alignment
+MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training
+Pareto-Optimal Learning from Preferences with Hidden Context
+Direct Alignment of Language Models via Quality-Aware Self-Refinement
+Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback
+The Role of Learning Algorithms in Collective Action
+Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization
+Preferential Multi-Objective Bayesian Optimization
+Adversarial Contrastive Decoding: Boosting Safety Alignment of Large Language Models via Opposite Prompt Optimization
+Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration
+Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment
+Word Alignment as Preference for Machine Translation
+Off the rails: Procedural dilemma generation for moral reasoning
+Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation
+Direct Preference Optimization With Unobserved Preference Heterogeneity
+Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment
+The Impossibility of Fair LLMs
+Large Language Model Unlearning via Embedding-Corrupted Prompts
+ProgressGym: Alignment with a Millennium of Moral Progress
+Eliminating Biased Length Reliance of Direct Preference Optimization via Down-Sampled KL Divergence
+MEEL: Multi-Modal Event Evolution Learning
+Finetuning Large Language Model for Personalized Ranking
+How Useful is Intermittent, Asynchronous Expert Feedback for Bayesian Optimization?
+A Critical Look At Tokenwise Reward-Guided Text Generation
+Large Language Models are Contrastive Reasoners
+Calibrating LLMs with Preference Optimization on Thought Trees for Generating Rationale in Science Question Scoring
+Exploring Multi-Lingual Bias of Large Code Models in Code Generation
+Super (ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization
+Soft Preference Optimization: Aligning Language Models to Expert Distributions
+Virtual Personas for Language Models via an Anthology of Backstories
+Towards Building Specialized Generalist AI with System 1 and System 2 Fusion
+Improving Reward Models with Synthetic Critiques
+A Review of Large Language Models and Autonomous Agents in Chemistry
+Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization
+BoNBoN Alignment for Large Language Models and the Sweetness of Best-of-n Sampling
+MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models
+MEReQ: Max-Ent Residual-Q Inverse RL for Sample-Efficient Alignment from Intervention
+ContraSolver: Self-Alignment of Language Models by Resolving Internal Preference Contradictions
+The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret
+An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation
+One-Shot Safety Alignment for Large Language Models via Optimal Dualization
+Culturally Aware and Adapted NLP: A Taxonomy and a Survey of the State of the Art
+TS-Align: A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models
+The Expressibility of Polynomial based Attention Scheme
+Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs
+Iterative Length-Regularized Direct Preference Optimization: A Case Study on Improving 7B Language Models to GPT-4 Level
+Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing
+Supportiveness-based Knowledge Rewriting for Retrieval-augmented Language Modeling
+Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller
+RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning Personal Information in Large Language Models
+Recent Advances in Large Language Models for Healthcare
+AI Risk Management Should Incorporate Both Safety and Security
+Hybrid Alignment Training for Large Language Models
+A tutorial on learning from preferences and choices with Gaussian Processes
+Steering Without Side Effects: Improving Post-Deployment Control of Language Models
+Automatic Pair Construction for Contrastive Post-training
+Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models
+Understanding Preference Fine-Tuning Through the Lens of Coverage
+Bridging the Bosphorus: Advancing Turkish Large Language Models through Strategies for Low-Resource Language Adaptation and Benchmarking
+ReMoDetect: Reward Models Recognize Aligned LLM's Generations
+Aligning LLMs through Multi-perspective User Preference Ranking-based Feedback for Programming Question Answering
+GREEN: Generative Radiology Report Evaluation and Error Notation
+Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction
+Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions
+Themis: Towards Flexible and Interpretable NLG Evaluation
+Can LLM Graph Reasoning Generalize beyond Pattern Memorization?
+Research on Large Language Model for Coal Mine Equipment Maintenance Based on Multi-Source Text
+DIPPER: Direct Preference Optimization to Accelerate Primitive-Enabled Hierarchical Reinforcement Learning
+Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning
+Legend: Leveraging Representation Engineering to Annotate Safety Margin for Preference Datasets
+MACAROON: Training Vision-Language Models To Be Your Engaged Partners
+Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces
+Contrastive Policy Gradient: Aligning LLMs on sequence-level scores in a supervised-friendly fashion
+The Responsible Foundation Model Development Cheatsheet: A Review of Tools & Resources
+NIFTY Financial News Headlines Dataset
+TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification
+Active Preference Learning for Large Language Models
+Reinforcement Learning from Human Feedback without Reward Inference: Model-Free Algorithm and Instance-Dependent Analysis
+Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
+Group Robust Preference Optimization in Reward-free RLHF
+Cost-Effective Proxy Reward Model Construction with On-Policy and Active Learning
+Supervised Fine-Tuning as Inverse Reinforcement Learning
+Aligning Large Language Models via Fine-grained Supervision
+GoEX: Perspectives and Designs Towards a Runtime for Autonomous LLM Applications
+PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences
+LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement
+Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast
+RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation
+Self-training Language Models for Arithmetic Reasoning
+Bootstrapping Language Models with DPO Implicit Rewards
+Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People
+Re-Tuning: Overcoming the Compositionality Limits of Large Language Models with Recursive Tuning
+PAS: Data-Efficient Plug-and-Play Prompt Augmentation System
+Relevant or Random: Can LLMs Truly Perform Analogical Reasoning?
+SafeAligner: Safety Alignment against Jailbreak Attacks via Response Disparity Guidance
+LIRE: listwise reward enhancement for preference alignment
+HAF-RM: A Hybrid Alignment Framework for Reward Model Training
+Bayesian WeakS-to-Strong from Text Classification to Generation
+STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical
+LIONs: An Empirically Optimized Approach to Align Language Models
+Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models
+LLMs Beyond English: Scaling the Multilingual Capability of LLMs with Cross-Lingual Feedback
+Decoupled Alignment for Robust Plug-and-Play Adaptation
+Watch Every Step! LLM Agent Learning via Iterative Step-Level Process Refinement
+Enhancing Reinforcement Learning with Label-Sensitive Reward for Natural Language Understanding
+" Vorbe\c {s} ti Rom\^ ane\c {s} te?" A Recipe to Train Powerful Romanian LLMs with English Instructions
+Mechanism Design for LLM Fine-tuning with Multiple Reward Models
+Autonomous Data Association and Intelligent Information Discovery Based on Multimodal Fusion Technology
+BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval
+Enhancing Confidence Expression in Large Language Models Through Learning from Past Experience
+Regularized Conditional Diffusion Model for Multi-Task Preference Alignment
+Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment
+Speak Out of Turn: Safety Vulnerability of Large Language Models in Multi-turn Dialogue
+Merging Improves Self-Critique Against Jailbreak Attacks
+It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF
+Beyond Imitation: Learning Key Reasoning Steps from Dual Chain-of-Thoughts in Reasoning Distillation
+D2PO: Discriminator-Guided DPO with Response Evaluation Models
+ARM: Efficient Guided Decoding with Autoregressive Reward Models
+Limitations of Agents Simulated by Predictive Models
+: Language Modeling with Explicit Memory
+OPTune: Efficient Online Preference Tuning
+A Survey on Human-AI Teaming with Large Pre-Trained Models
+LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots
+Beyond Static Evaluation: A Dynamic Approach to Assessing AI Assistants' API Invocation Capabilities
+Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis
+Video Diffusion Alignment via Reward Gradients
+Reward Engineering for Generating Semi-structured Explanation
+Encourage or Inhibit Monosemanticity? Revisit Monosemanticity from a Feature Decorrelation Perspective
+Latent Distance Guided Alignment Training for Large Language Models
+Efficient Model-agnostic Alignment via Bayesian Persuasion
+Aqulia-Med LLM: Pioneering Full-Process Open-Source Medical Language Models
+Crowdsourcing with Difficulty: A Bayesian Rating Model for Heterogeneous Items
+Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles
+AgentGym: Evolving Large Language Model-based Agents across Diverse Environments
+SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization
+Can LLMs Learn by Teaching? A Preliminary Study
+DeTikZify: Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
+Tagengo: A Multilingual Chat Dataset
+Automated Multi-Language to English Machine Translation Using Generative Pre-Trained Transformers
+Bayesian Constraint Inference from User Demonstrations Based on Margin-Respecting Preference Models
+Training LLMs to Better Self-Debug and Explain Code
+Fine-Tuning Language Models with Reward Learning on Policy
+Knowledge Editing in Language Models via Adapted Direct Preference Optimization
+PERL: Parameter Efficient Reinforcement Learning from Human Feedback
+On Overcoming Miscalibrated Conversational Priors in LLM-based Chatbots
+Flooding Spread of Manipulated Knowledge in LLM-Based Multi-Agent Communities
+Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling
+Ensuring Safe and High-Quality Outputs: A Guideline Library Approach for Language Models
+Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback
+Optimizing Language Models for Human Preferences is a Causal Inference Problem
+Preference-free Alignment Learning with Regularized Relevance Reward
+An Empathetic User-Centric Chatbot for Emotional Support
+A Declarative System for Optimizing AI Workloads
+Optimal Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning
+Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models
+Visual Evidence Prompting Mitigates Hallucinations in Multimodal Large Language Models
+Controlling long-form large language model outputs
+Off-Policy Evaluation from Logged Human Feedback
+Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks
+Information Theoretic Guarantees For Policy Alignment In Large Language Models
+i-SRT: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective Judgment
+Aligner: One Global Token is Worth Millions of Parameters When Aligning Large Language Models
+Stick to your Role! Stability of Personal Values Expressed in Large Language Models
+Cascade Reward Sampling for Efficient Decoding-Time Alignment
+CMCA-YOLO: A Study on a Real-Time Object Detection Model for Parking Lot Surveillance Imagery
+Mallows-DPO: Fine-Tune Your LLM with Preference Dispersions
+LLM-jp: A Cross-organizational Project for the Research and Development of Fully Open Japanese LLMs
+Do LLMs Implicitly Determine the Suitable Text Difficulty for Users?
+SPO: Multi-Dimensional Preference Sequential Alignment With Implicit Reward Modeling
+Distributional Preference Alignment of LLMs via Optimal Transport
+Multi-Reference Preference Optimization for Large Language Models
+A Bayesian Solution To The Imitation Gap
+Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models
+3D-Properties: Identifying Challenges in DPO and Charting a Path Forward
+Prior Constraints-based Reward Model Training for Aligning Large Language Models
+Nash CoT: Multi-Path Inference with Preference Equilibrium
+Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization
+Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning
+Toward Optimal LLM Alignments Using Two-Player Games
+Enhancing LLM-based Test Generation for Hard-to-Cover Branches via Program Analysis
+On the Principles behind Opinion Dynamics in Multi-Agent Systems of Large Language Models
+Integrating Emotional and Linguistic Models for Ethical Compliance in Large Language Models
+The Power of Active Multi-Task Learning in Reinforcement Learning from Human Feedback
+Climate Change from Large Language Models
+SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack
+Jailbreaking as a Reward Misspecification Problem
+PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs
+Aligning Diffusion Models with Noise-Conditioned Perception
+Reward Steering with Evolutionary Heuristics for Decoding-time Alignment
+Advancing Tool-Augmented Large Language Models: Integrating Insights from Errors in Inference Trees
+GraphArena: Benchmarking Large Language Models on Graph Computational Problems
+Exposing Privacy Gaps: Membership Inference Attack on Preference Data for LLM Alignment
+On-Policy Fine-grained Knowledge Feedback for Hallucination Mitigation
+PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning
+Compass: Large Multilingual Language Model for South-east Asia
+Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives
+A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications
+Is Free Self-Alignment Possible?
+WangchanLion and WangchanX MRC Eval
+Exploring Safety-Utility Trade-Offs in Personalized Language Models
+-Coder: Value-Based Deep Reinforcement Learning for Program Synthesis
+On the Intrinsic Self-Correction Capability of LLMs: Uncertainty and Latent Concept
+Refined Direct Preference Optimization with Synthetic Data for Behavioral Alignment of LLMs
+Exploring Open Large Language Models for the Japanese Language: A Practical Guide
+Statistical ranking with dynamic covariates
+-Puzzle: A Cost-Efficient Testbed for Benchmarking Reinforcement Learning Algorithms in Generative Language Model
+Prompt Exploration with Prompt Regression
+Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale
+Financial Knowledge Large Language Model
+Searching for Best Practices in Retrieval-Augmented Generation
+Towards Fine-Grained Pedagogical Control over English Grammar Complexity in Educational Text Generation
+Ridge Regression for Paired Comparisons: A Tractable New Approach, with Application to Premier League Football
+Class-Conditional self-reward mechanism for improved Text-to-Image models
+Towards Human Understanding of Paraphrase Types in ChatGPT
+CURATRON: Complete Robust Preference Data for Robust Alignment of Large Language Models
+TaxoLLaMA: WordNet-based Model for Solving Multiple Lexical Sematic Tasks
+Prompting Large Language Models for Zero-shot Essay Scoring via Multi-trait Specialization
+Navigating the Landscape of Large Language Models: A Comprehensive Review and Analysis of Paradigms and Fine-Tuning Strategies
+DockGame: Cooperative Games for Multimeric Rigid Protein Docking
+BPO: Supercharging Online Preference Learning by Adhering to the Proximity of Behavior LLM
+Uncovering Limitations of Large Language Models in Information Seeking from Tables
+OpenLLM-Ro--Technical Report on Open-source Romanian LLMs trained starting from Llama 2
+Banishing LLM Hallucinations Requires Rethinking Generalization
+Toward robust unlearning for LLMs
+Exploring Mathematical Extrapolation of Large Language Models with Synthetic Data
+Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning
+Direct Preference-Based Evolutionary Multi-Objective Optimization with Dueling Bandit
+Bailong: Bilingual Transfer Learning based on QLoRA and Zip-tie Embedding
+DeTox: Toxic Subspace Projection for Model Editing
+REPO: mplicit Reward Pairwise Difference based Empirical Preference Optimization
+Contrastive Preference Learning for Neural Machine Translation
+FIPO: Free-form Instruction-oriented Prompt Optimization with Preference Dataset and Modular Fine-tuning Schema
+Nycu-nlp at semeval-2024 task 2: Aggregating large language models in biomedical natural language inference for clinical trials
+Relation Extraction with Fine-Tuned Large Language Models in Retrieval Augmented Generation Frameworks
+Improving Automated Distractor Generation for Math Multiple-choice Questions with Overgenerate-and-rank
+Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents
+Understand What LLM Needs: Dual Preference Alignment for Retrieval-Augmented Generation
+Improving Reward-Conditioned Policies for Multi-Armed Bandits using Normalized Weight Functions
+Advanced Natural-based interaction for the ITAlian language: LLaMAntino-3-ANITA
+Evaluating AI for Law: Bridging the Gap with Open-Source Solutions
+Evolving to be Your Soulmate: Personalized Dialogue Agents with Dynamically Adapted Personas
+GELEX: Generative AI-Hybrid System for Example-Based Learning
+Fake Artificial Intelligence Generated Contents (FAIGC): A Survey of Theories, Detection Methods, and Opportunities
+Generalizing Reward Modeling for Out-of-Distribution Preference Learning
+What Teaches Robots to Walk, Teaches Them to Trade too--Regime Adaptive Execution using Informed Data and LLMs
+Asymptotically Optimal Regret for Black-Box Predict-then-Optimize
+Efficient Knowledge Infusion via KG-LLM Alignment
+Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task
+Fine-tuning protein Language Models by ranking protein fitness
+There and Back Again: The AI Alignment Paradox
+HumanRankEval: Automatic Evaluation of LMs as Conversational Assistants
+Integrating Physician Diagnostic Logic into Large Language Models: Preference Learning from Process Feedback
+ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation
+Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare
+Large Language Model-Informed X-ray Photoelectron Spectroscopy Data Analysis
+AdaCQR: Enhancing Query Reformulation for Conversational Search via Sparse and Dense Retrieval Alignment
+Inverse Constitutional AI: Compressing Preferences into Principles
+Quantifying and Optimizing Global Faithfulness in Persona-driven Role-playing
+LLM experiments with simulation: Large Language Model Multi-Agent System for Process Simulation Parametrization in Digital Twins
+Aligning Large Language Models with Counterfactual DPO
+How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics
+RAGSys: Item-Cold-Start Recommender as RAG System
+Wiki-based Prompts for Enhancing Relation Extraction using Language Models
+Developing Conversational Intelligent Tutoring for Speaking Skills in Second Language Learning
+SmurfCat at PAN 2024 TextDetox: Alignment of Multilingual Transformers for Text Detoxification
+Institutional Platform for Secure Self-Service Large Language Model Exploration
+Clustering and Ranking: Diversity-preserved Instruction Selection through Expert-aligned Quality Estimation
+Future of Evidence Synthesis: Automated, Living, and Interactive Systematic Reviews and Meta-Analyses
+Plan-Grounded Large Language Models for Dual Goal Conversational Settings
+Internet-scale topic modeling using large language models
+GEB-1.3 B: Open Lightweight Large Language Model
+Introducing cosmosGPT: Monolingual Training for Turkish Language Models
+Tele-FLM Technical Report
+From Instructions to Constraints: Language Model Alignment with Automatic Constraint Verification
+MULTIVERSE: Exposing Large Language Model Alignment Problems in Diverse Worlds
+THaLLE: Text Hyperlocally Augmented Large Language Extension--Technical Report
+Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency
+InstructPLM: Aligning Protein Language Models to Follow Protein Structure Instructions
+Dynamic Normativity: Necessary and Sufficient Conditions for Value Alignment
+Training Human-AI Teams
+Online Joint Fine-tuning of Multi-Agent Flows
+Proxy-RLHF: Decoupling Generation and Alignment in Large Language Model with Proxy
+Configurable Safety Tuning of Language Models with Synthetic Preference Data
+I Learn Better If You Speak My Language: Enhancing Large Language Model Fine-Tuning with Style-Aligned Response Adjustments
+Averaging log-likelihoods in direct alignment
+Language Alignment via Nash-learning and Adaptive feedback
+OpenBezoar: Small, Cost-Effective and Open Models Trained on Mixes of Instruction Data
+A Survey on the Integration and Optimization of Large Language Models in Edge Computing Environments
+大语言模型对齐研究综述
+NLLG Quarterly arXiv Report 09/23: What are the most influential current AI Papers?
+A Brief Introduction to Causal Inference in Machine Learning
+Mimicking User Data: On Mitigating Fine-Tuning Risks in Closed Large Language Models
+Alignment For Performance Improvement in Conversation Bots
+A preference-driven paradigm for enhanced translation with large language models
+Large Language Model as an Assignment Evaluator: Insights, Feedback, and Challenges in a 1000+ Student Course
+Procedural Dilemma Generation for Moral Reasoning in Humans and Language Models
+Preference Alignment with Flow Matching
+Likelihood-based fine-tuning of protein language models for few-shot fitness prediction and design
+EmPO: Theory-Driven Dataset Construction for Empathetic Response Generation through Preference Optimization
+Protein Generation via Genome-scale Language Models with Bio-physical Scoring
+Refining Large Language Models for Tabular Data Analysis in Business Domain by Laymen Text
+Revisiting Document Expansion and Filtering for Effective First-Stage Retrieval
+Model Alignment as Prospect Theoretic Optimization
+Efficient and Accurate Memorable Conversation Model using DPO based on sLLM
+Fairness in transfer learning for natural language processing
+Dubious Debiasing: Inherent Challenges in Achieving Fairness in Large Language Models
+Teaching Large Language Models to Use Tools at Scale
+Position: Video as the New Language for Real-World Decision Making
+Report on The Search Futures Workshop at ECIR 2024
+Adversarial Robustness for Estimation and Alignment
+Safe Reinforcement Learning using Finite-Horizon Gradient-based Estimation
+Enhancing Language Model with Both Human and Artificial Intelligence Feedback Data
+Combining multiple metrics for evaluating retrieval-augmented conversations
+Enabling Lanuguage Models to Implicitly Learn Self-Improvement
+CURATRON: Complete and Robust Preference Data for Rigorous Alignment of Large Language Models
+Integrating MHC Class I visibility targets into the ProteinMPNN protein design process
+PICLe: Eliciting Diverse Behaviors from Large Language Models with Persona In-Context Learning
+Understanding and Guarding against Natural Language Adversarial Examples
+Improving contextual query rewrite for conversational AI agents through user-preference feedback learning
+Sign-Averaging Covariance Matrix Adaptation Evolution Strategy
+Uncertainty-Aware Unsupervised and Robust Reinforcement Learning
+Improving Abstractive Summarization and Information Consistency Assessment
+Large Language Models Sometimes Generate Purely Negatively-Reinforced Text
+LEARNING WITH AND WITHOUT HUMAN FEEDBACK
+Improving the reliability of language models for summarization
+Aligning Language Models with the Human World
+RLHF and IIA: Perverse Incentives
+Fine-tuning Does Not Remove Language Model Capabilities
+Essays in Experimental Economics: Intertemporal and Social Choice
+Active Vision for Embodied Agents Using Reinforcement Learning
+LLM Multimodal Traffic Accident Forecasting
+Large Language Model-Informed X-ray Photoelectron Spectroscopy Data Analysis
+Intelligent Photoresponsive Drug Delivery with Causal Language Models and Chemist Instruction Training
+Efficient and robust web scale language model based retrieval, generation, and understanding
+Select High-quality Synthetic QA Pairs to Augment Training Data in MRC under the Reward Guidance of Generative Language Models
+Improving Arithmetical Reasoning of Language Models
+Challenges and Methods for Alignment of Large Language Models with Human Preferences
+Direct Preference Optimization for Improved Technical WritingAssistance: A Study of How Language Models Can Support the Writing of Technical Documentation at …
+Toward building more accessible large language models: A preliminary empirical study on data scarcity in knowledge distillation and algorithm complexity in …
+Consistency Regularization for Domain Generalization with Logit Attribution Matching
+Controllable Text Generation to Fight Disinformation
+Diffusion Domain Expansion: Learning to Coordinate Pre-Trained Diffusion Models
+On Generative Models and Joint Architectures for Document-level Relation Extraction
+Metis-A Python-Based User Interface to Collect Expert Feedback for Generative Chemistry Models
+Создание алгоритма генерации образовательного контента с использованием больших языковых моделей: магистерская диссертация по …
+THE ANALYSIS OF THE EFFICIENCY OF GENERATIVE AI ALGORITHMS FOR CREATING A NATURAL DIALOGUE
+AI-Generated News Articles Based on Large Language Models
+Learning to maximize the social welfare from preference feedback
+New Desiderata for Direct Preference Optimization
+MACHINE LEARNING UNDER HUMAN GUIDANCE
+Attributing Mode Collapse in the Fine-Tuning of Large Language Models
+Learning to Generate Better than your Large Language Models
+Comparing Few to Rank Many: Optimal Design for Learning Preferences
+Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback
+My Climate Advisor: An Application of NLP in Climate Adaptation for Agriculture
+Proximal Preference Optimization for Diffusion Models
+Task-Aligned Reward Modeling for Reinforcement Learning in Text Summarization: A Survey
+Modelling Variability in Human Annotator Simulation
+OAK: Enriching Document Representations using Auxiliary Knowledge for Extreme Classification
+Modeling the Plurality of Human Preferences via Ideal Points
+When is RL better than DPO in RLHF? A Representation and Optimization Perspective
+Efficient Interactive Preference Learning in Evolutionary Algorithms: Active Dueling Bandits and Active Learning Integration
+Vision:“AccessFormer”: Feedback-Driven Access Control Policy Generation Framework
+Self-Alignment of Large Language Models via Social Scene Simulation
+Multi-Agent Meeting Scheduling: A Negotiation Perspective
+Aligner: One Global Token is Worth Millions of Parameters When Aligning LLMs
+Large Language Models: Assessment for Singularity
+SPO: Multi-Dimensional Preference Alignment With Implicit Reward Modeling
+STA-RLHF: Stackelberg Aligned Reinforcement Learning with Human Feedback
+How Does RLHF Shift Behavior Distributions? Distinguishability and Steerability
+Building a Specialized ChatGpt-Like System
+BLiMP-NL
+Relatively Rational: Learning Utilities and Rationalities Jointly from Pairwise Preferences
+Extrapolative Protein Design through Triplet-based Preference Learning
+RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation
+Mission Impossible: A Statistical Perspective on Jailbreaking LLMs
+Revisiting Successor Features for Inverse Reinforcement Learning
+RSI-LLM: Humans create a world for AI
+A Chit-Chat between Llama2 and Chatgpt for the Automated Creation of Exploits
+Efficient Offline Preference-Based Reinforcement Learning with Transition-Dependent Discounting
+Navigating the Challenges of Fine Tuning and Catastrophic Forgetting Published on Mar 25, 2024
+법률AI 의성능향상을위한DPO 알고리즘기반연구제안
+0th Berlin Symposium on Artificial Teacher Avatars:: Workshop report
+RLHF for Grammar Error Correction
+Research Preparation Criterion
+VQ-VAE に基づく解釈可能なアクセント潜在変数を用いた多方言音声合成
+AI アラインメント: 包括的サーベイ
+悲観的なRLHF
+効果の高い広告文生成のためのLLM のInstruction Tuning と関連する広告属性の分析
+金融ドメイン特化のための大規模言語モデルのインストラクションチューニング評価
+생성형AI 시대거대언어모델의기술동향
