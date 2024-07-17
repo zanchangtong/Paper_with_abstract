@@ -3,6 +3,8 @@ import arxiv
 from datetime import datetime
 import xml.etree.ElementTree as ET
 from tqdm import tqdm 
+from xml.dom.minidom import parseString
+
 def clean_text(text):
     # 使用正则表达式替换不是英文字母和空格的所有字符
     cleaned_text = re.sub(r'[^a-zA-Z ]', '', text)
@@ -87,10 +89,17 @@ if updated:
             ET.SubElement(item, "dc:creator").text = entry["author"]
             ET.SubElement(item, "pubDate").text = entry["update_time"].strftime("%a, %d %b %Y %H:%M:%S GMT")
 
-        # 生成 XML 树并保存到文件
+        # 生成 XML 树
         tree = ET.ElementTree(rss)
-        tree.write(f"{file_name}.xml", encoding="utf-8", xml_declaration=True)
-
+        # 将 ElementTree 转换为字符串
+        xml_string = ET.tostring(rss, 'utf-8')
+        # 使用 minidom 解析字符串
+        dom = parseString(xml_string)
+        # 使用美化的方式写入文件
+        with open(f"{file_name}.xml", "w", encoding="utf-8") as f:
+            # 'toprettyxml' 添加换行和缩进，移除 encoding 参数
+            f.write(dom.toprettyxml(indent="  ", newl="\n"))
+            
     # 示例数据
     entries = [
         {
