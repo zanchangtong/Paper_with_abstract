@@ -29,4 +29,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: fetched-papers
-          path: arxiv_papers.xml  # 上传生成的 XML 文件作为工作流程的工件
+          path: arxiv_cs_CL_papers.xml  # 上传生成的 XML 文件作为工作流程的工件
