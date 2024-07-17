@@ -16,7 +16,7 @@ titles=open(f"{file_name}.txt", "r", encoding="utf-8").readlines()
 # Search for the 10 most recent articles matching the keyword "quantum."
 updated=[]
 failed=[]
-for title in tqdm(titles[:10]):
+for title in tqdm(titles[:5]):
     clean_title = clean_text(title)
     if len(clean_title) < 2:
         failed.append(title)
@@ -63,7 +63,6 @@ if updated:
     #     tree = ET.ElementTree(rss)
     #     tree.write(f"{file_name}.xml", encoding="utf-8", xml_declaration=True)
     def create_rss_feed(entries):
-        # 创建 RSS 根元素并添加命名空间
         rss = ET.Element("rss", version="2.0", attrib={
             "xmlns:atom": "http://www.w3.org/2005/Atom",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
