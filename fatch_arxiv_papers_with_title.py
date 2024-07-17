@@ -40,11 +40,11 @@ if updated:
         channel = ET.SubElement(rss, "channel")
         # 添加频道描述元素
         title = ET.SubElement(channel, "title")
-        title.text = "Daily arXiv cs.CL Papers"
+        title.text = "dpo reference Papers"
         link = ET.SubElement(channel, "link")
         link.text = "http://zct_Paper_with_abstract.com/rss"
         description = ET.SubElement(channel, "description")
-        description.text = "Daily updates of arXiv cs.CL papers."
+        description.text = "dpo reference papers."
 
         last_build_date = ET.SubElement(channel, "lastBuildDate")
         last_build_date.text = datetime.utcnow().strftime("%a, %d %b %Y GMT")
