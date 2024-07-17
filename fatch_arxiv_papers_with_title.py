@@ -16,7 +16,7 @@ titles=open(f"{file_name}.txt", "r", encoding="utf-8").readlines()
 # Search for the 10 most recent articles matching the keyword "quantum."
 updated=[]
 failed=[]
-for title in tqdm(titles):
+for title in tqdm(titles[:10]):
     clean_title = clean_text(title)
     if len(clean_title) < 2:
         failed.append(title)
@@ -34,31 +34,60 @@ for title in tqdm(titles):
         failed.append(title)
 
 if updated:
+    # def create_rss_feed(entries):
+    #     # 创建 RSS 根元素
+    #     rss = ET.Element("rss", version="2.0")
+    #     channel = ET.SubElement(rss, "channel")
+    #     # 添加频道描述元素
+    #     title = ET.SubElement(channel, "title")
+    #     title.text = "dpo reference Papers"
+    #     link = ET.SubElement(channel, "link")
+    #     link.text = "http://zct_Paper_with_abstract.com/rss"
+    #     description = ET.SubElement(channel, "description")
+    #     description.text = "dpo reference papers."
+
+    #     last_build_date = ET.SubElement(channel, "lastBuildDate")
+    #     last_build_date.text = datetime.utcnow().strftime("%a, %d %b %Y GMT")
+
+    #     # 添加论文条目
+    #     for entry in entries:
+    #         item = ET.SubElement(channel, "item")
+    #         ET.SubElement(item, "title").text = entry["title"]
+    #         ET.SubElement(item, "author").text = entry["author"]
+    #         ET.SubElement(item, "description").text = entry["abstract"]
+    #         ET.SubElement(item, "link").text = entry["link"]
+    #         ET.SubElement(item, "comments").text = entry["comment"]
+    #         ET.SubElement(item, "pubDate").text = entry["update_time"].strftime("%a, %d %b %Y %H:%M:%S GMT")
+    #         ET.SubElement(item, "guid").text = entry["link"]
+    #     # 生成 XML 树并保存到文件
+    #     tree = ET.ElementTree(rss)
+    #     tree.write(f"{file_name}.xml", encoding="utf-8", xml_declaration=True)
     def create_rss_feed(entries):
-        # 创建 RSS 根元素
-        rss = ET.Element("rss", version="2.0")
+        # 创建 RSS 根元素并添加命名空间
+        rss = ET.Element("rss", version="2.0", attrib={
+            "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+        })
         channel = ET.SubElement(rss, "channel")
         # 添加频道描述元素
-        title = ET.SubElement(channel, "title")
-        title.text = "dpo reference Papers"
-        link = ET.SubElement(channel, "link")
-        link.text = "http://zct_Paper_with_abstract.com/rss"
-        description = ET.SubElement(channel, "description")
-        description.text = "dpo reference papers."
-
-        last_build_date = ET.SubElement(channel, "lastBuildDate")
-        last_build_date.text = datetime.utcnow().strftime("%a, %d %b %Y GMT")
+        ET.SubElement(channel, "title").text = "dpo reference Papers"
+        ET.SubElement(channel, "link").text = "http://zct_Paper_with_abstract.com/rss"
+        ET.SubElement(channel, "description").text = "Latest dpo reference papers."
+        ET.SubElement(channel, "atom:link", href="http://zct_Paper_with_abstract.com/rss", rel="self", type="application/rss+xml")
+        ET.SubElement(channel, "language").text = "en-us"
+        ET.SubElement(channel, "lastBuildDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
+        ET.SubElement(channel, "pubDate").text = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
         # 添加论文条目
         for entry in entries:
             item = ET.SubElement(channel, "item")
             ET.SubElement(item, "title").text = entry["title"]
-            ET.SubElement(item, "author").text = entry["author"]
-            ET.SubElement(item, "description").text = entry["abstract"]
             ET.SubElement(item, "link").text = entry["link"]
-            ET.SubElement(item, "comments").text = entry["comment"]
+            ET.SubElement(item, "description").text = entry["abstract"]
+            ET.SubElement(item, "guid", isPermaLink="false").text = entry["link"]
+            ET.SubElement(item, "dc:creator").text = entry["author"]
             ET.SubElement(item, "pubDate").text = entry["update_time"].strftime("%a, %d %b %Y %H:%M:%S GMT")
-            ET.SubElement(item, "guid").text = entry["link"]
+
         # 生成 XML 树并保存到文件
         tree = ET.ElementTree(rss)
         tree.write(f"{file_name}.xml", encoding="utf-8", xml_declaration=True)
