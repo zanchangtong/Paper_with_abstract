@@ -1,6 +1,53 @@
+Alphazero-like tree-search can guide large language model decoding and training
+Teaching large language models to translate with comparison
+Vanishing gradients in reinforcement finetuning of language models
+RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs
+Self-playing Adversarial Language Game Enhances LLM Reasoning
+Personalized large language models
+LightHouse: A Survey of AGI Hallucination
+Rethinking Entity-level Unlearning for Large Language Models
+Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning
+Curriculum Direct Preference Optimization for Diffusion and Consistency Models
+Nemotron-4 340B Technical Report
+Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation
+More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness
+AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts
+Finetuning Large Language Model for Personalized Ranking
+Hybrid Alignment Training for Large Language Models
+Automatic Pair Construction for Contrastive Post-training
+Supervised Fine-Tuning as Inverse Reinforcement Learning
+ARM: Efficient Guided Decoding with Autoregressive Reward Models
+Fine-Tuning Language Models with Reward Learning on Policy
+Preference-free Alignment Learning with Regularized Relevance Reward
+Information Theoretic Guarantees For Policy Alignment In Large Language Models
+Mallows-DPO: Fine-Tune Your LLM with Preference Dispersions
+Efficient Knowledge Infusion via KG-LLM Alignment
+Fine-tuning protein Language Models by ranking protein fitness
 大语言模型对齐研究综述
 大语言模型对齐研究综述
+Procedural Dilemma Generation for Moral Reasoning in Humans and Language Models
+Position: Video as the New Language for Real-World Decision Making
+Enabling Lanuguage Models to Implicitly Learn Self-Improvement
+CURATRON: Complete and Robust Preference Data for Rigorous Alignment of Large Language Models
+PICLe: Eliciting Diverse Behaviors from Large Language Models with Persona In-Context Learning
+Improving contextual query rewrite for conversational AI agents through user-preference feedback learning
+Aligning Language Models with the Human World
+Fine-tuning Does Not Remove Language Model Capabilities
+LLM Multimodal Traffic Accident Forecasting
+Large Language Model-Informed X-ray Photoelectron Spectroscopy Data Analysis
+Improving Arithmetical Reasoning of Language Models
+Direct Preference Optimization for Improved Technical WritingAssistance: A Study of How Language Models Can Support the Writing of Technical Documentation at …
 Создание алгоритма генерации образовательного контента с использованием больших языковых моделей: магистерская диссертация по …
+Learning to Generate Better than your Large Language Models
+Modeling the Plurality of Human Preferences via Ideal Points
+Efficient Interactive Preference Learning in Evolutionary Algorithms: Active Dueling Bandits and Active Learning Integration
+Self-Alignment of Large Language Models via Social Scene Simulation
+Aligner: One Global Token is Worth Millions of Parameters When Aligning LLMs
+SPO: Multi-Dimensional Preference Alignment With Implicit Reward Modeling
 BLiMP-NL
+RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation
+법률AI 의성능향상을위한DPO 알고리즘기반연구제안
+悲観的なRLHF
 金融ドメイン特化のための大規模言語モデルのインストラクションチューニング評価
 金融ドメイン特化のための大規模言語モデルのインストラクションチューニング評価
+생성형AI 시대거대언어모델의기술동향

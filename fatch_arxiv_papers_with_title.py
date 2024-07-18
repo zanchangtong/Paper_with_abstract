@@ -10,6 +10,8 @@ def clean_text(text):
     cleaned_text = re.sub(r'[^a-zA-Z ]', '', text)
     return cleaned_text
 
+def has_duplicate_entry_id(elements, new_element):
+    return any(element[0].entry_id == new_element.entry_id for element in elements)
 
 # Construct the default API client.
 client = arxiv.Client()
@@ -30,8 +32,8 @@ for title in tqdm(titles):
     results = client.results(search)
     all_results = list(results)
 
-    if all_results:
-        updated.append(all_results[0])
+    if all_results and not has_duplicate_entry_id(updated, all_results[0]):
+        updated.append((all_results[0], title.strip()))
     else:
         failed.append(title)
 
@@ -56,7 +58,7 @@ if updated:
             item = ET.SubElement(channel, "item")
             ET.SubElement(item, "title").text = entry["title"]
             ET.SubElement(item, "link").text = entry["link"]
-            ET.SubElement(item, "description").text = entry["abstract"]
+            ET.SubElement(item, "description").text = entry["abstract"] + "\n\n\n" + entry["title_gscholar"]
             ET.SubElement(item, "guid", isPermaLink="false").text = entry["link"]
             ET.SubElement(item, "dc:creator").text = entry["author"]
             ET.SubElement(item, "pubDate").text = entry["update_time"].strftime("%a, %d %b %Y %H:%M:%S GMT")
@@ -80,8 +82,9 @@ if updated:
             "abstract": paper.summary.replace("\n", " "),
             "link": paper.entry_id ,
             "comment": paper.comment ,
-            "update_time": paper.updated
-        } for paper in updated
+            "update_time": paper.updated,
+            "title_gscholar": title_gscholar
+        } for paper, title_gscholar in updated
     ]
     sorted_data = sorted(entries, key=lambda x: x['update_time'])
 
